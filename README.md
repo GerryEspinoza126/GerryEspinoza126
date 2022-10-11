@@ -1,0 +1,15 @@
+- 👋 Hi, I’m @GerryEspinoza126
+- a Computer Systems Engineering Student
+- I Know Use C++, Java, Php, Html, Css, Mysql
+- Learning Python, JS / React
+- I Want To Learn C#
+- 📫 How to reach me 
+      
+    - gerryespinozasanchez@gmail.com
+    - Facebook: Gerry Espinoza
+    - Twitter: @GerryEspinoza01
+
+<!---
+GerryEspinoza126/GerryEspinoza126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
