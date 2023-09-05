@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GerryEspinoza126
 - a Computer Systems Engineering Student
-- I Know Use C++, Java, Php, Html, Css, Mysql
-- Learning Python, JS / React
-- I Want To Learn C#
+- I Know Use C++, Java, Php, Html, Css, Mysql, Python, Flutter
+- Learning Flet
 - 📫 How to reach me 
       
     - gerryespinozasanchez@gmail.com
