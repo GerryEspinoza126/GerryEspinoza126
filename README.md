@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GerryEspinoza126
-- a Computer Systems Engineering Student
+- a Computer Systems Engineering
 - I Know Use C++, Java, Php, Html, Css, Mysql, Python, Flutter
-- Learning Flet
+- Learning Flet and React
 - 📫 How to reach me 
       
     - gerryespinozasanchez@gmail.com
