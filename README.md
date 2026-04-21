@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @GerryEspinoza126
 - a Computer Systems Engineering
-- I Know Use C++, Java, Php, Html, Css, Mysql, Python, Flutter
-- Learning Flet and React
+- I Know Use React, Node.js, Supabase, Flutter, Vercel, Java, Php, Html, Css, Mysql, Python, C++
 - 📫 How to reach me 
       
     - gerryespinozasanchez@gmail.com
-    - Facebook: Gerry Espinoza
-    - Twitter: @GerryEspinoza01
 
 <!---
 GerryEspinoza126/GerryEspinoza126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
